@@ -4,9 +4,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sohailghafoor)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:s.ghafoor004@gmail.com)
-[![CertiK ADI](https://img.shields.io/badge/🛡️_CertiK-ADI_Audited-00A6FF?style=for-the-badge)](https://skynet.certik.com/projects/adi)
-[![CertiK Finstreet](https://img.shields.io/badge/🛡️_CertiK-Finstreet_Audited-00A6FF?style=for-the-badge)](https://skynet.certik.com/projects/finstreet-limited)
-[![101 Blockchains](https://img.shields.io/badge/🏆_Featured_Success_Story-101_Blockchains-FF6B35?style=for-the-badge&logoColor=white)](https://101blockchains.com/success-story-sohail-ghafoor/)
+[![Featured Success Story](https://img.shields.io/badge/🏆_Featured_Success_Story-101_Blockchains-FF6B35?style=for-the-badge&logoColor=white)](https://101blockchains.com/success-story-sohail-ghafoor/)
 
 </div>
 
@@ -33,7 +31,7 @@ At **Finstreet Limited (ADGM)**, an FSRA-regulated entity, I help build and oper
 
 🔐 **2× CertiK Audited** · 📜 **50+ Production Smart Contracts** · 💰 **$10M+ Digital Assets Secured**
 
-🏛️ **ADGM/FSRA Regulated** · 🌍 **7 Live Production Projects** · 👥 **Led Engineering Teams**
+🏛️ **ADGM/FSRA Regulated** · 🌍 **Live Production Projects** · 👥 **Led Engineering Teams**
 
 🎓 **Certified Enterprise Blockchain Architect (CEBA™)** · 🔓 **Open Source Contributor**
 
@@ -43,19 +41,16 @@ At **Finstreet Limited (ADGM)**, an FSRA-regulated entity, I help build and oper
 
 <div align="center">
 
-## Focus Areas
+## What I Build
 
-**Smart Contracts / EVM** · Solidity, security tokens (ERC-3643/1400), vaults (ERC-4626/7540/7575), account abstraction (ERC-4337)
-
-**RWA Tokenization & Digital Securities** · tokenization and lifecycle of equities, real estate, and carbon assets; DvP settlement
-
-**Institutional Custody & Security** · MPC/TSS, HSM signing, Fireblocks, DFNS, Azure Key Vault
-
-**Rust & Go Infrastructure** · trading and matching engines in Rust; clearing and key-management services in Go
-
-**Blockchain Infrastructure** · Geth, Hyperledger Besu/Fabric, private networks, nodes, indexers, zkSync L2, cross-chain bridges
-
-**Contract Security & Testing** · Foundry, Slither, Mythril, Echidna, Certora; CertiK audit cycles
+| Area | Details |
+|:---|:---|
+| **Smart Contracts / EVM** | Solidity, security tokens (ERC-3643/1400), vaults (ERC-4626/7540/7575), account abstraction (ERC-4337) |
+| **RWA Tokenization & Digital Securities** | Tokenization and lifecycle of equities, real estate, and carbon assets; DvP settlement |
+| **Institutional Custody & Security** | MPC/TSS, HSM signing, Fireblocks, DFNS, Azure Key Vault |
+| **Rust & Go Infrastructure** | Trading and matching engines in Rust; clearing and key-management services in Go |
+| **Blockchain Infrastructure** | Geth, Hyperledger Besu/Fabric, private networks, nodes, indexers, zkSync L2, cross-chain bridges |
+| **Contract Security & Testing** | Foundry, Slither, Mythril, Echidna, Certora; full CertiK audit cycles |
 
 </div>
 
@@ -67,11 +62,8 @@ At **Finstreet Limited (ADGM)**, an FSRA-regulated entity, I help build and oper
 
 | Project | Network | Status |
 |:---:|:---:|:---:|
-| [**ADI Blockchain**](https://www.adi.foundation) | zkSync Layer-2 | [![CertiK](https://img.shields.io/badge/CertiK-Audited-00A6FF?style=flat-square)](https://skynet.certik.com/projects/adi) |
-| [**ADI Bridge**](https://bridge.adifoundation.ai/bridge/) | Ethereum ↔ ADI | ![Live](https://img.shields.io/badge/Live-2ECC71?style=flat-square) |
-| [**ADI Explorer**](https://explorer.adifoundation.ai) | ADI EVM | ![Live](https://img.shields.io/badge/Live-2ECC71?style=flat-square) |
-| [**Finstreet**](https://finstreet.ae) | Private DLT + EVM | [![CertiK](https://img.shields.io/badge/CertiK-Audited-00A6FF?style=flat-square)](https://skynet.certik.com/projects/finstreet-limited) |
-| [**Finstreet Explorer**](https://bc-explorer.finstreet.ae) | Hyperledger Besu | ![Live](https://img.shields.io/badge/Live-2ECC71?style=flat-square) |
+| [**ADI Blockchain**](https://www.adi.foundation) — chain, [bridge](https://bridge.adifoundation.ai/bridge/) & [explorer](https://explorer.adifoundation.ai) | zkSync Layer-2 | [![CertiK](https://img.shields.io/badge/CertiK-Audited-00A6FF?style=flat-square)](https://skynet.certik.com/projects/adi) |
+| [**Finstreet**](https://finstreet.ae) — platform & [explorer](https://bc-explorer.finstreet.ae) | Private DLT + EVM | [![CertiK](https://img.shields.io/badge/CertiK-Audited-00A6FF?style=flat-square)](https://skynet.certik.com/projects/finstreet-limited) |
 | [**ClymAct RWA**](https://clymact.com) | EVM | ![Live](https://img.shields.io/badge/Live-2ECC71?style=flat-square) |
 | [**Predictstreet**](https://app.dev.predictstreet.sde.adifoundation.ai) | EVM · DeFi | ![Live](https://img.shields.io/badge/Live-2ECC71?style=flat-square) |
 
@@ -87,11 +79,9 @@ At **Finstreet Limited (ADGM)**, an FSRA-regulated entity, I help build and oper
 
 ![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white) ![Rust](https://img.shields.io/badge/Rust-CE422B?style=for-the-badge&logo=rust&logoColor=white) ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 
-**Contracts & Security**
+**Contracts, Standards & Security**
 
 ![Foundry](https://img.shields.io/badge/Foundry-8B4513?style=for-the-badge&logo=ethereum&logoColor=white) ![Hardhat](https://img.shields.io/badge/Hardhat-FFF100?style=for-the-badge&logo=hardhat&logoColor=black) ![OpenZeppelin](https://img.shields.io/badge/OpenZeppelin-4E5EE4?style=for-the-badge&logo=openzeppelin&logoColor=white) ![Slither](https://img.shields.io/badge/Slither-E74C3C?style=for-the-badge&logo=ethereum&logoColor=white) ![Echidna](https://img.shields.io/badge/Echidna-E67E22?style=for-the-badge&logo=ethereum&logoColor=white) ![Certora](https://img.shields.io/badge/Certora-6E2F8F?style=for-the-badge&logo=ethereum&logoColor=white)
-
-**Standards**
 
 ![ERC-3643](https://img.shields.io/badge/ERC--3643-E91E63?style=for-the-badge&logo=ethereum&logoColor=white) ![ERC-1400](https://img.shields.io/badge/ERC--1400-00BCD4?style=for-the-badge&logo=ethereum&logoColor=white) ![ERC-4626](https://img.shields.io/badge/ERC--4626-F39C12?style=for-the-badge&logo=ethereum&logoColor=white) ![ERC-4337](https://img.shields.io/badge/ERC--4337-2ECC71?style=for-the-badge&logo=ethereum&logoColor=white)
 
