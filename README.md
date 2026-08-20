@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1B4F8A,100:00D4FF&height=200&section=header&text=Sohail%20Ghafoor&fontSize=50&fontColor=ffffff&fontAlignY=35&desc=Senior%20Blockchain%20Engineer%20%7C%20Solidity,%20Go%20%26%20Rust%20%7C%20RWA%20Tokenization%20%7C%20Custody%20%7C%20Digital%20Asset%20Infrastructure&descSize=15&descAlignY=58&descColor=ffffff"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1B4F8A,100:00D4FF&height=200&section=header&text=Sohail%20Ghafoor&fontSize=50&fontColor=ffffff&fontAlignY=35&desc=Senior%20Blockchain%20Engineer%20%7C%20Smart%20Contract%20Security%20%7C%20Digital%20Asset%20Infrastructure&descSize=16&descAlignY=58&descColor=ffffff"/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sohailghafoor)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:s.ghafoor004@gmail.com)
@@ -15,10 +15,6 @@
 <div align="center">
 
 ## About
-
-</div>
-
-<div align="center">
 
 Senior blockchain engineer with 6+ years building regulated digital asset and DeFi systems for financial institutions.<br>
 I work across smart contracts, real-world-asset tokenization, institutional custody, and the backend and blockchain infrastructure that moves and settles digital assets.
@@ -49,21 +45,17 @@ At **Finstreet Limited (ADGM)**, an FSRA-regulated entity, I help build and oper
 
 ## Focus Areas
 
-</div>
+**Smart Contracts / EVM** · Solidity, security tokens (ERC-3643/1400), vaults (ERC-4626/7540/7575), account abstraction (ERC-4337)
 
-<div align="center">
+**RWA Tokenization & Digital Securities** · tokenization and lifecycle of equities, real estate, and carbon assets; DvP settlement
 
-**Smart Contracts / EVM** Solidity, security tokens (ERC-3643/1400), vaults (ERC-4626/7540/7575), account abstraction (ERC-4337)
+**Institutional Custody & Security** · MPC/TSS, HSM signing, Fireblocks, DFNS, Azure Key Vault
 
-**RWA Tokenization & Digital Securities** tokenization and lifecycle of equities, real estate, and carbon assets; DvP settlement
+**Rust & Go Infrastructure** · trading and matching engines in Rust; clearing and key-management services in Go
 
-**Institutional Custody & Security** MPC/TSS, HSM signing, Fireblocks, DFNS, Azure Key Vault
+**Blockchain Infrastructure** · Geth, Hyperledger Besu/Fabric, private networks, nodes, indexers, zkSync L2, cross-chain bridges
 
-**Rust & Go Infrastructure** trading and matching engines in Rust; clearing and key-management services in Go
-
-**Blockchain Infrastructure** Geth, Hyperledger Besu/Fabric, private networks, nodes, indexers, zkSync L2, cross-chain bridges
-
-**Contract Security & Testing** Foundry, Slither, Mythril, Echidna, Certora; CertiK audit cycles
+**Contract Security & Testing** · Foundry, Slither, Mythril, Echidna, Certora; CertiK audit cycles
 
 </div>
 
@@ -109,7 +101,7 @@ At **Finstreet Limited (ADGM)**, an FSRA-regulated entity, I help build and oper
 
 **Infrastructure**
 
-![Hyperledger Besu](https://img.shields.io/badge/Hyperledger_Besu-FF6A00?style=for-the-badge&logo=hyperledger&logoColor=white) ![Geth](https://img.shields.io/badge/Geth-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white) ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+![Hyperledger Besu](https://img.shields.io/badge/Hyperledger_Besu-FF6A00?style=for-the-badge&logo=hyperledger&logoColor=white) ![Geth](https://img.shields.io/badge/Geth-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white) ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white) ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
 
 </div>
 
