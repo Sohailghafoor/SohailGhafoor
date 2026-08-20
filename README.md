@@ -52,23 +52,21 @@ At **Finstreet Limited (ADGM)**, an FSRA-regulated entity, I help build and oper
 | **Contract Security & Testing** | Foundry, Slither, Mythril, Echidna, Certora; full CertiK audit cycles |
 
 </div>
-
----
-
 <div align="center">
 
-## Live Projects
+## 🌍 Live Projects
 
 | Project | Network | Status |
 |:---:|:---:|:---:|
-| [**ADI Blockchain**](https://www.adi.foundation) — chain, [bridge](https://bridge.adifoundation.ai/bridge/) & [explorer](https://explorer.adifoundation.ai) | zkSync Layer-2 | [![CertiK](https://img.shields.io/badge/CertiK-Audited-00A6FF?style=flat-square)](https://skynet.certik.com/projects/adi) |
-| [**Finstreet**](https://finstreet.ae) — platform & [explorer](https://bc-explorer.finstreet.ae) | Private DLT + EVM | [![CertiK](https://img.shields.io/badge/CertiK-Audited-00A6FF?style=flat-square)](https://skynet.certik.com/projects/finstreet-limited) |
-| [**ClymAct RWA**](https://clymact.com) | EVM | ![Live](https://img.shields.io/badge/Live-2ECC71?style=flat-square) |
-| [**Predictstreet**](https://app.dev.predictstreet.sde.adifoundation.ai) | EVM · DeFi | ![Live](https://img.shields.io/badge/Live-2ECC71?style=flat-square) |
+| [**ADI Blockchain**](https://www.adi.foundation) | ![zkSync](https://img.shields.io/badge/zkSync_Layer--2-4E529A?style=flat-square&logo=ethereum&logoColor=white) | [![CertiK](https://img.shields.io/badge/CertiK-Audited-00A6FF?style=flat-square)](https://skynet.certik.com/projects/adi) |
+| [**ADI Bridge**](https://bridge.adifoundation.ai/bridge/) | ![ETH](https://img.shields.io/badge/Ethereum_↔_ADI-3C3C3D?style=flat-square&logo=ethereum&logoColor=white) | ![Live](https://img.shields.io/badge/Live-2ECC71?style=flat-square) |
+| [**ADI Explorer**](https://explorer.adifoundation.ai) | ![EVM](https://img.shields.io/badge/ADI_EVM-4E529A?style=flat-square&logo=ethereum&logoColor=white) | ![Live](https://img.shields.io/badge/Live-2ECC71?style=flat-square) |
+| [**Finstreet**](https://finstreet.ae) | ![DLT](https://img.shields.io/badge/Private_DLT+EVM-FF6A00?style=flat-square&logo=hyperledger&logoColor=white) | [![CertiK](https://img.shields.io/badge/CertiK-Audited-00A6FF?style=flat-square)](https://skynet.certik.com/projects/finstreet-limited) |
+| [**Finstreet Explorer**](https://bc-explorer.finstreet.ae) | ![Besu](https://img.shields.io/badge/Hyperledger_Besu-FF6A00?style=flat-square&logo=hyperledger&logoColor=white) | ![Live](https://img.shields.io/badge/Live-2ECC71?style=flat-square) |
+| [**ClymAct RWA**](https://clymact.com) | ![EVM](https://img.shields.io/badge/EVM-3C3C3D?style=flat-square&logo=ethereum&logoColor=white) | ![Live](https://img.shields.io/badge/Live-2ECC71?style=flat-square) |
+| [**ADI Predictstreet**](https://adipredictstreet.com/) | ![EVM](https://img.shields.io/badge/EVM_DeFi-8247E5?style=flat-square&logo=ethereum&logoColor=white) | ![Live](https://img.shields.io/badge/Live-2ECC71?style=flat-square) |
 
-</div>
-
----
+<br/>
 
 <div align="center">
 
@@ -76,7 +74,7 @@ At **Finstreet Limited (ADGM)**, an FSRA-regulated entity, I help build and oper
 
 **Languages**
 
-![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white) ![Rust](https://img.shields.io/badge/Rust-CE422B?style=for-the-badge&logo=rust&logoColor=white) ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white) ![Rust](https://img.shields.io/badge/Rust-CE422B?style=for-the-badge&logo=rust&logoColor=white) ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 
 **Contracts, Standards & Security**
 
