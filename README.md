@@ -28,17 +28,16 @@ At **Finstreet Limited (ADGM)**, an FSRA-regulated entity, I help build and oper
 <div align="center">
 
 ## At a Glance
-
-🔐 **2× CertiK Audited** · 📜 **50+ Production Smart Contracts** · 💰 **$10M+ Digital Assets Secured**
-
-🏛️ **ADGM/FSRA Regulated** · 🌍 **Live Production Projects** · 👥 **Led Engineering Teams**
-
-🎓 **Certified Enterprise Blockchain Architect (CEBA™)** · 🔓 **Open Source Contributor**
+| 🔐 2x CertiK Audited | 👥 Led Teams up to 10 Engineers |
+|:---:|:---:|
+| 📜 **50+ Production Smart Contracts** | 💰 **$10M+ Digital Assets Secured** |
+| 🏛️ **ADGM/FSRA Regulated** | 🌍 **7 Live Production Projects** |
+| 🎓 **Certified Enterprise Blockchain Architect (CEBA™)** | 🔓 **Open Source Contributor** |
 
 </div>
 
----
 
+<br/>
 <div align="center">
 
 ## What I Build
